@@ -1,3 +1,5 @@
+# Client Side
+
 the following table contains the keywords that are important and should be checked in js source files:
 
 |Keyword / Function|Description|
