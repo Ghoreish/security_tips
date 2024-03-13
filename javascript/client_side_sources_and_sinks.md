@@ -12,6 +12,7 @@ location.search
 document.cookie
 document.referrer
 URLSearchParams
+location.hash
 ```
 
 **Sinks**
