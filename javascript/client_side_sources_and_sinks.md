@@ -1,5 +1,5 @@
 ## the following keywords can help you find the sinks and sources.
-> [!NOTE]
+> [!IMPORTANT]
 > These keywords are collected from [@fath3ad.22](https://medium.com/@fath3ad.22) writeup on [this link](https://medium.com/@fath3ad.22/understanding-dom-based-xss-sources-and-sinks-c17ae4bc7455)
 
 **Sources**
@@ -24,5 +24,5 @@ element.insertAdjacentHTML
 element.onevent
 ```
 
-> [!IMPORTANT]
+> [!NOTE]
 > If you can improve this list feel free to send pull request.💙
