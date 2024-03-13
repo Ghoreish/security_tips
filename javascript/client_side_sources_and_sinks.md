@@ -11,6 +11,7 @@ document.baseURI
 location.search
 document.cookie
 document.referrer
+URLSearchParams
 ```
 
 **Sinks**
